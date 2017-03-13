@@ -1,0 +1,159 @@
+body {
+	background-image: url(back.jpg);
+	background-size: contain;
+	width: 100%;
+	
+}
+.all_layout {
+	width: 100%;
+	border: 10px solid 10px solid rgba(12, 17, 183, 0.51);
+	margin: 0px;
+	padding: 0px;
+
+}
+.header {
+	
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+
+
+}
+.header_one {
+	border: 4px solid black;
+	width: 30%;
+	height: 100px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(36, 210, 36, 0.39);
+
+
+}
+.header_two {
+	border: 4px solid black;
+	width: 68.3%;
+	height: 100px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(83, 83, 154, 0.26);;
+
+}
+.center {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+
+}
+.center_one{
+	border: 4px solid black;
+	width: 45%;
+	height: 410px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(222, 155, 32, 0.52);
+
+
+}
+.center_two{
+	width: 53.3%;
+	
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	
+
+}
+.center_twoOne{
+	border: 4px solid black;
+	width: 100%;
+	height: 200px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(226, 226, 26, 0.5);
+
+
+
+}
+.center_twoTwo{
+	border: 4px solid black;
+	width: 100%;
+	height: 200px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(24, 149, 165, 0.69);
+
+
+}
+.midle{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+
+}
+.midle_one{
+	border: 4px solid black;
+	width: 32.5%;
+	height: 400px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(208, 140, 16, 0.63);
+
+
+}
+.midle_two{
+	width: 32.5%;
+	display: inline-block;
+	border: 4px solid black;
+	height: 400px
+
+}
+.midle_twoOne{
+	border: 4px solid black;
+	width: 100%;
+	height: 50%;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	background-color: rgba(255, 255, 0, 0.66);
+
+}
+.midle_twoTwo{
+	border: 4px solid black;
+	width: 100%;
+	height: 50%;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	background-color: rgba(176, 224, 230, 0.64);
+
+}
+.midle_three{
+	border: 4px solid black;
+	width: 32.5%;
+	height: 400px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgba(255, 165, 0, 0.59);
+
+
+}
+.footer {
+	width: 99.2%;
+	margin: 0px;
+	padding: 0px;
+	border: 4px solid black;
+	height: 100px;
+	background-color: rgba(199, 8, 8, 0.79);
+
+
+}
+
